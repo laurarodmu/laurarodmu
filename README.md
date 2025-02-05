@@ -10,13 +10,13 @@ I am a Biomedical Engineer pursuing a Master's in Machine Learning for Health at
 - Image Processing and Analysis
 
 ## Featured Projects 🚀
-- ### Deep Learning for MRI Analysis (2024 - Present)
+- **Deep Learning for MRI Analysis (2024 - Present)**
 Developing deep learning algorithms for MRI image segmentation and disease diagnosis.
-- ### Evaluation of Gait Parameters and Their Relationship to Health Using Wearable Sensors and Python Algorithm Development (2023)
+- **Evaluation of Gait Parameters and Their Relationship to Health Using Wearable Sensors and Python Algorithm Development (2023)**
 Conducted research at the Department of Biomedical Engineering, University of Vermont, using portable sensors and Python-based algorithms to analyze gait and its impact on health.
-- ### Genomic Study of Patients with Neurofibromatosis Type II (2022)
+- **Genomic Study of Patients with Neurofibromatosis Type II (2022)**
 Worked at the Department of Bioinformatics, University of Vermont, analyzing genomic data to understand Neurofibromatosis Type II better.
-- ### Neuroregeneration Study: Betacellulin as a Neuroregenerator Factor (2024)
+- **Neuroregeneration Study: Betacellulin as a Neuroregenerator Factor (2024)**
 Investigated the role of Betacellulin in neural regeneration, highlighting its therapeutic potential.
 
 ## Technical Skills 🛠️
