@@ -12,11 +12,11 @@ I am a Biomedical Engineer pursuing a Master's in Machine Learning for Health at
 ## Projects 🚀
 - **Deep Learning for MRI Analysis (2024 - Present):**
 Developing deep learning algorithms for MRI image segmentation and disease diagnosis in collaboration with University Carlos III.
-- **Neuroregeneration Study: Betacellulin as a Neuroregenerator Factor (2024):**
+- **Neuroregeneration Study: Betacellulin as a Neuroregenerator Factor:**
 Conducted research at the Biomedical Research Institute Gregorio Marañón about the role of Betacellulin in neural regeneration, highlighting its therapeutic potential.
-- **Evaluation of Gait Parameters and Their Relationship to Health Using Wearable Sensors and Python Algorithm Development (2023):**
+- **Evaluation of Gait Parameters and Their Relationship to Health Using Wearable Sensors and Python Algorithm Development:**
 Conducted research at the Department of Biomedical Engineering (University of Vermont) using portable sensors and Python-based algorithms to analyze gait and its impact on health.
-- **Genomic Study of Patients with Neurofibromatosis Type II (2022):**
+- **Genomic Study of Patients with Neurofibromatosis Type II:**
 Worked at the Department of Bioinformatics (University of Vermont) analyzing genomic data to understand Neurofibromatosis Type II better.
 - **Deep Autoencoder for Image Denoising:**
 Designed a deep autoencoder to enhance image clarity by removing noise from input data, demonstrating improved performance on datasets like MNIST and FMNIST.
