@@ -24,6 +24,8 @@ Designed a deep autoencoder to enhance image clarity by removing noise from inpu
 Implemented and compared two RNN architectures for sentiment classification of financial news, evaluating the impact of attention mechanisms.
 - **CNN Calibration with Temperature Scaling:**
 Investigated the effect of temperature scaling on convolutional neural networks to refine confidence scores and improve reliability in binary classification problems.
+- **Retina Image Segmentation using Preprocessing Techniques:**
+Developed an improved segmentation pipeline for retinal images, enhancing vessel detection through advanced preprocessing techniques.
 
 ## Technical Skills 🛠️
 - Languages: Python, MATLAB, R
