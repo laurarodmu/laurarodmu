@@ -4,10 +4,10 @@
 I am a Biomedical Engineer pursuing a Master's in Machine Learning for Health at Universidad Carlos III de Madrid. With a passion for technology and innovation, I thrive at the intersection of healthcare and data science. I love learning new things and sharing knowledge with the community.
 
 ## Research Interests 🔬
-- Biomedical Imaging & Analysis
+- Biomedical Imaging 
 - Machine Learning in Healthcare
 - Neuroregeneration & Neurobiology
-- Image Processing and Analysis
+- Image Processing & Analysis
 
 ## Featured Projects 🚀
 - **Deep Learning for MRI Analysis (2024 - Present):**
