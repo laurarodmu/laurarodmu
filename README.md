@@ -18,6 +18,12 @@ Conducted research at the Biomedical Research Institute Gregorio Marañón about
 Conducted research at the Department of Biomedical Engineering (University of Vermont) using portable sensors and Python-based algorithms to analyze gait and its impact on health.
 - **Genomic Study of Patients with Neurofibromatosis Type II (2022):**
 Worked at the Department of Bioinformatics (University of Vermont) analyzing genomic data to understand Neurofibromatosis Type II better.
+- **Deep Autoencoder for Image Denoising:**
+Designed a deep autoencoder to enhance image clarity by removing noise from input data, demonstrating improved performance on datasets like MNIST and FMNIST.
+- **Sentiment Analysis with RNNs: Attention vs. No Attention:**
+Implemented and compared two RNN architectures for sentiment classification of financial news, evaluating the impact of attention mechanisms.
+- **CNN Calibration with Temperature Scaling:**
+Investigated the effect of temperature scaling on convolutional neural networks to refine confidence scores and improve reliability in binary classification problems.
 
 ## Technical Skills 🛠️
 - Languages: Python, MATLAB, R
