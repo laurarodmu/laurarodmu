@@ -9,7 +9,7 @@ I am a Biomedical Engineer pursuing a Master's in Machine Learning for Health at
 - Neuroregeneration & Neurobiology
 - Image Processing & Analysis
 
-## Featured Projects 🚀
+## Projects 🚀
 - **Deep Learning for MRI Analysis (2024 - Present):**
 Developing deep learning algorithms for MRI image segmentation and disease diagnosis in collaboration with University Carlos III.
 - **Neuroregeneration Study: Betacellulin as a Neuroregenerator Factor (2024):**
